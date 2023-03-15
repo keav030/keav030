@@ -1,4 +1,4 @@
-### Hi there 👋
+### Soy un Desarrollador Web Full Stack con experiencia en trabajo en equipo, resolución de problemas complejos y creación de soluciones de alta calidad. Mi pasión por la programación me llevó a profundizar en este campo para enriquecer mis habilidades y adquirir nuevos conocimientos. Busco proyectos innovadores para seguir creciendo profesionalmente.
 
 <!--
 **keav030/keav030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
