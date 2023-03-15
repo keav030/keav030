@@ -1,4 +1,7 @@
-### Soy un Desarrollador Web Full Stack con experiencia en trabajo en equipo, resolución de problemas complejos y creación de soluciones de alta calidad. Mi pasión por la programación me llevó a profundizar en este campo para enriquecer mis habilidades y adquirir nuevos conocimientos. Busco proyectos innovadores para seguir creciendo profesionalmente.
+## Soy un Desarrollador Web Full Stack con experiencia en trabajo en equipo, resolución de problemas complejos y creación de soluciones de alta calidad. Mi pasión por la programación me llevó a profundizar en este campo para enriquecer mis habilidades y adquirir nuevos conocimientos. Busco proyectos innovadores para seguir creciendo profesionalmente.
+
+
+
 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
